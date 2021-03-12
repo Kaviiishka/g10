@@ -1,5 +1,7 @@
 package com.g10.serviceImpl;
 
-public class DoctorServiceImpl {
+import com.g10.service.DoctorSevice;
+
+public class DoctorServiceImpl implements DoctorSevice {
 
 }
